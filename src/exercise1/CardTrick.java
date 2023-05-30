@@ -59,7 +59,7 @@ public class CardTrick {
      * @author Ahmed 
      */
     private static void printInfo() {
-    
+    //im done!
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
